@@ -1,0 +1,2 @@
+max;
+    printf("%d", rear );
